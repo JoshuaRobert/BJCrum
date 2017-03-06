@@ -1,15 +1,15 @@
 {
   "project": {
-    "title": "canvas",
-    "url": "http://nonlinear.nyc/canvas",
-    "description": "This is my description",
-    "analytics": "UA-57576127-1"
+    "title": "Brian Justin Crum",
+    "url": "http://brianjustincrum.com",
+    "description": "Official website for musician Brian Justin Crum",
+    "analytics": ""
   },
   "author": {
-    "name": "Nicholas Frota",
-    "email": "info@nicholasfrota.com",
-    "twitter": "nonlinear",
+    "name": "Atypical Beings",
+    "email": "info@atypicalbeings.com",
+    "twitter": "atypicalbeings",
     "github": "nonlinear",
-    "instagram": "nonlinear"
+    "instagram": ""
   }
 }
